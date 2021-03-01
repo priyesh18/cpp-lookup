@@ -1,2 +1,2 @@
 # cpp-lookup
-C++ reference for competitive coding.
+C++ stl reference for competitive coding.
